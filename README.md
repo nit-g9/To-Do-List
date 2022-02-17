@@ -1,2 +1,2 @@
-# To-Do-List
+# to-do-list
 This Repository is for 'To-Do List' Project using React.
